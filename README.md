@@ -1,2 +1,1 @@
-# rand.ac
-백준을 온라인 게임으로!
+![rand.ac](/static/github.png)
