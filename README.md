@@ -36,11 +36,6 @@ rand.ac는 [Baekjoon Online Judge](https://www.acmicpc.net/)의 문제를 **온�
 
 ## 개발
 
-### 참고사항
-
-모든 기능은 각각의 `branch`에서 개발되며, `main` 브랜치에 `merge`되면 배포됩니다.  
-핫픽스가 필요한 경우 `hotfix` 브랜치를 사용합니다. 마찬가지로, `hotfix` 브랜치에서 개발된 기능은 `main` 브랜치에 `merge`되면 배포됩니다.
-
 ### 설치
 
 이 저장소를 `clone`한 후, 다음 명령어를 실행합니다.
@@ -69,4 +64,22 @@ foo@bar:~$ npm run preview
 
 ```bash
 foo@bar:~$ npm run build
+```
+
+## 참고사항
+
+### branch 관리
+
+모든 기능은 각각의 `branch`에서 개발되며, `main` 브랜치에 `merge`되면 배포됩니다.  
+핫픽스가 필요한 경우 `hotfix` 브랜치를 사용합니다. 마찬가지로, `hotfix` 브랜치에서 개발된 기능은 `main` 브랜치에 `merge`되면 배포됩니다.
+
+### 커밋 메시지
+
+모든 커밋 메시지는 다음과 같은 형식으로 작성합니다.
+
+```
+Add: Add new feature
+Fix: Fix bug
+Update: Update feature
+Remove: Remove feature
 ```
