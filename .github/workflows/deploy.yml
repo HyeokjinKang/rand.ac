@@ -21,4 +21,4 @@ jobs:
         run: npm run build
 
       - name: Deploy
-        run: rm -rf ${{ secrets.DEPLOY_PATH }} && mkdir ${{ secrets.DEPLOY_PATH }} && \mv -f $GITHUB_WORKSPACE/build/* ${{ secrets.DEPLOY_PATH }}/
+        run: rsync -aq $GITHUB_WORKSPACE/build/ ${{ secrets.DEPLOY_PATH }}/
