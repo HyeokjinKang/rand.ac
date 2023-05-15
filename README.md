@@ -38,8 +38,8 @@ rand.ac는 [Baekjoon Online Judge](https://www.acmicpc.net/)의 문제를 **온�
 
 ### 참고사항
 
-모든 기능은 각각의 `branch`에서 개발되며, `master` 브랜치에 `merge`되면 배포됩니다.  
-핫픽스가 필요한 경우 `hotfix` 브랜치를 사용합니다. 마찬가지로, `hotfix` 브랜치에서 개발된 기능은 `master` 브랜치에 `merge`되면 배포됩니다.
+모든 기능은 각각의 `branch`에서 개발되며, `main` 브랜치에 `merge`되면 배포됩니다.  
+핫픽스가 필요한 경우 `hotfix` 브랜치를 사용합니다. 마찬가지로, `hotfix` 브랜치에서 개발된 기능은 `main` 브랜치에 `merge`되면 배포됩니다.
 
 ### 설치
 
