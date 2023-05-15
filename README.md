@@ -53,7 +53,6 @@ rand.ac는 [Baekjoon Online Judge](https://www.acmicpc.net/)의 문제를 **온�
 
 ```bash
 foo@bar:~$ npm install
-foo@bar:~$ npm run build
 ```
 
 ### 실행
