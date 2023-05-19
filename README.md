@@ -1,5 +1,12 @@
 ![rand.ac](/static/github.png)
 
+# rand.ac
+
+![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/HyeokjinKang/rand.ac/build.yml?branch=main)
+![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/HyeokjinKang/rand.ac/build.yml?branch=develop&label=dev)
+![GitHub license](https://img.shields.io/github/license/HyeokjinKang/rand.ac)
+![GitHub issues](https://img.shields.io/github/issues/HyeokjinKang/rand.ac?color=yellow)
+
 > [rand.ac](https://rand.ac), problem solving is now a game.
 
 This repository is currently operated in Korean. For English documents, please wait.
